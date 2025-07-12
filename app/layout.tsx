@@ -11,9 +11,8 @@ const pixelFont = Press_Start_2P({
 
 export const metadata: Metadata = {
   title: "Valentine's Day Special",
-  description: "A cosmic-themed Valentine's Day message",
-  viewport: "width=device-width, initial-scale=1",
-    generator: 'v0.dev'
+  description: "Valentine's Day Message",
+  viewport: "width=device-width, initial-scale=1"
 }
 
 export default function RootLayout({
